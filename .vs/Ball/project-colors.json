@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4cbd78b9-2171-4223-810a-a28677c0a612": {
+      "ProjectGuid": "4cbd78b9-2171-4223-810a-a28677c0a612",
+      "DisplayName": "Ball",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
